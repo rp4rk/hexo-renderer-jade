@@ -4,10 +4,10 @@ Add support for [Jade].
 
 ## Install
 
-Clone the following into node modules:
+Install via NPM using
 
 ``` bash
-git://github.com/rp4rk/hexo-renderer-jade.git
+npm install hexo-renderer-jade-config --save
 ```
 
 ## Configuration

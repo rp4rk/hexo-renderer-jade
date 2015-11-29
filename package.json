@@ -1,14 +1,14 @@
 {
-  "name": "hexo-renderer-jade",
-  "version": "0.1.0",
-  "description": "Jade renderer plugin for Hexo",
+  "name": "hexo-renderer-jade-config",
+  "version": "0.1.1",
+  "description": "Config enabled Jade renderer plugin for Hexo",
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hexojs/hexo-renderer-jade.git"
+    "url": "https://github.com/rp4rk/hexo-renderer-jade.git"
   },
   "bugs": {
-    "url": "https://github.com/hexojs/hexo-renderer-jade/issues"
+    "url": "https://github.com/rp4rk/hexo-renderer-jade.git/issues"
   },
   "keywords": [
     "hexo",

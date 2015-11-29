@@ -16,8 +16,9 @@ npm install hexo-renderer-jade-config --save
 
 ```yml
 # Jade Compilation Options
-pretty: true
-debug: true
+jade:
+  pretty: true
+  debug: true
 
 ```
 
